@@ -1,1 +1,1 @@
-﻿Version 2 : verification du diff avant validation.
+﻿Version 3 : comparaison des revisions et restauration des changements.
