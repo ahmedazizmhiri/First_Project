@@ -1,1 +1,1 @@
-﻿Version 1 : notes de travail de Ahmed Aziz Mhiri sur Branche1.
+﻿Version 2 : verification du diff avant validation.
